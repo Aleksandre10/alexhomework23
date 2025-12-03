@@ -164,16 +164,27 @@
 
 //19.
 
-let numbers = [5, 12, 8, 20, 3, 15];
+// let numbers = [5, 12, 8, 20, 3, 15];
 
-function filterAboveTen(nums) {
-    return nums.filter(function(element) {
-        return element > 10;
-    });
-}
+// function filterAboveTen(nums) {
+//     return nums.filter(function(element) {
+//         return element > 10;
+//     });
+// }
 
-console.log(filterAboveTen(numbers));
+// console.log(filterAboveTen(numbers));
 
+//20.
+
+// let elements = document.getElementsByClassName("word");
+
+// let array = Array.from(elements);
+
+// let filtered = array.filter(function(el) {
+//     return el.classList.contains("one");
+// });
+
+// console.log(filtered);
 
 
 
